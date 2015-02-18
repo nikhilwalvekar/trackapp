@@ -20,10 +20,10 @@ $rootScope.$on('$stateChangeStart',
 ```
 ## GTM configuration
 ###1. Create macro
-![Macros](https://lh3.googleusercontent.com/dgHurg2qN7zYxV8Gd7CIJw_KtD1ThipT456wbDEPabMQM11Sh_2jwig-7V_dxUyaYbiurnXv6A=w1896-h813)
+![Macros](https://raw.githubusercontent.com/nikhilwalvekar/trackapp/master/docs/images/GTM_macro.png)
 
 ###2. Create rule
-![Rule](https://lh6.googleusercontent.com/L0CHsW9lf-T31DH3z01_hZfSWWRPdAugGl9MoZj2-G2upueiA48b5UanfERe1NJdIIBKwK8HZA=w1896-h813)
+![Rule](https://raw.githubusercontent.com/nikhilwalvekar/trackapp/master/docs/images/GTM_rules.png)
 
 ###3. Create tag and associate rule and macro
-![Tags](https://lh6.googleusercontent.com/PEBC7oYzx6SP-D70mhtZfUBxKSgx-rFOjKfGyCqnRY5Df7XBh6nEJ05V8UCqr4udE8MzhuI-eQ=w1896-h813)
+![Tags](https://raw.githubusercontent.com/nikhilwalvekar/trackapp/master/docs/images/GTM_tags.png)
